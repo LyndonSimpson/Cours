@@ -85,7 +85,3 @@ function saluer() {
 
 saluer(); // Appelle la fonction et affiche : Hello, world!
 ```
-
-### Conclusion
-
-Ce guide rapide fournit un aperçu des types de données de base en JavaScript et comment utiliser les fonctions. Pour des informations plus détaillées, veuillez consulter la documentation MDN liée ci-dessus.

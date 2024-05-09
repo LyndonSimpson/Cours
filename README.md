@@ -73,6 +73,15 @@ Les fonctions sont déclarées pour exécuter des blocs spécifiques de code.
 function saluer() {
     console.log("Hello, world!");
 }
+```
+
+### appel d'un function
+```javascript
+//déclaration de la funciton 'saluer'
+function saluer() {
+    console.log("Hello, world!");
+}
+
 saluer(); // Appelle la fonction et affiche : Hello, world!
 ```
 

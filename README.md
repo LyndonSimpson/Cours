@@ -27,7 +27,7 @@ let flottant = 3.14;
 console.log(entier, flottant); // Affiche : 25 3.14
 ```
 
-### 3. Booléen (Boolean)
+### 3. Booléen (Boolean) (c'est le seul qu'on a pas vu, je l'avais zappé, il est EZ, il peut que avoir deux valeurs différentes:
 
 Un booléen représente une valeur de vérité qui peut être soit true soit false.
 

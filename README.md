@@ -58,7 +58,8 @@ Les tableaux sont utilisés pour stocker des listes ordonnées de valeurs.
 ```javascript
 
 let nombres = [1, 2, 3, 4, 5];
-console.log(nombres[0]); // Affiche : 1
+console.log(nombres[0]); // Affiche : 1  (l'index d'un tableau commence à 0)
+console.log(nombres[1]); // Affiche : 2
 ```
 
 ## Fonctions en JavaScript

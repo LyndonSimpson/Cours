@@ -69,25 +69,11 @@ Les fonctions sont déclarées pour exécuter des blocs spécifiques de code.
 
 ```javascript
 
+//déclaration de la funciton 'saluer'
 function saluer() {
     console.log("Hello, world!");
 }
 saluer(); // Appelle la fonction et affiche : Hello, world!
-```
-
-### Fonction de Rappel (Callback)
-
-Une fonction de rappel est une fonction passée en argument à une autre fonction.
-
-```javascript
-
-function afficheResultat(callback) {
-    callback();
-}
-
-afficheResultat(function() {
-    console.log("Fonction exécutée!");
-}); // Affiche : Fonction exécutée!
 ```
 
 ### Conclusion
